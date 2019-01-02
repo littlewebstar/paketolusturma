@@ -1,0 +1,30 @@
+{
+  "name": "ozer-little-dert",
+  "version": "1.0.0",
+  "description": "Bu bir deneme paketi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "murat": "echo `Benim adim murat`",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ozer",
+    "paket"
+  ],
+  "author": "ozer littleweb",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.4.1",
+    "nodemailer": "^5.0.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/littlewebstar/paketolusturma.git"
+        
+  }
+}
